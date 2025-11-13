@@ -1,3 +1,4 @@
+
 // Load posts from central manager
 let movieData = [];
 
