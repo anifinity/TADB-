@@ -1,3 +1,4 @@
+
 // Central Posts Management System
 // This file manages all posts for both index.html and post.html
 // Supports both JSON files (public) and localStorage (personal)
